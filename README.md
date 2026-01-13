@@ -1,48 +1,115 @@
-# 🏛️ KUKI INU DISTRICT - COMMAND CENTER
+# 🏛️ KUKI INU DISTRICT — COMMAND CENTER
+Official Operational Repository
 
-Official Infrastructure for the Sovereign Narrative Moat.
+Welcome to the Kuki Inu District.
 
-"Coordinated human hustle is the ultimate engine for digital sovereignty."
+This repository is the public command center for KUKI INU’s operational infrastructure.
+It exists to provide transparency, coordination, and verifiable execution — not promises.
 
-Welcome to the Kuki Inu District. This repository is the tactical fuel for the Meme Machine. Here, Pioneers find the high-fidelity assets, the sacred lore, and the operational protocols needed to lead Kuki to Mars.
+Everything here reflects what is live, observable, and operating today.
 
-## 🛰️ MISSION INFRASTRUCTURE
+---
+
+## WHAT THIS REPOSITORY IS
+
+This repository contains:
+
+- operational protocols,
+- official assets and canon,
+- on-chain transparency references,
+- coordination frameworks for human-first execution.
+
+It does not represent a product roadmap, investment thesis, or future guarantees.
+
+---
+
+## REPOSITORY STRUCTURE
 
 ### 📂 BRAND-ASSETS
-The foundation for Cyber Smiths. High-resolution logos and clean visual frameworks for community expansion. 
+High-fidelity visual assets for content creation and signal consistency.
 
 ### 📂 OFFICIAL-CANON
-The certified visual signal. Official banners and tactical displays approved by the Architect.
+Certified visual and narrative assets curated to define canonical standards.
 
 ### 📂 THE-ODYSSEY
-The soul of the mission.
-**OFFICIAL NARRATIVE:** The journey from Singapore 2025 to the stars.
-**MISSION ARCHIVE:** Strategic milestones and the trajectory to the #1 Memecoin Market Cap.
+Narrative and historical context documents.
+Provides background and lore, not operational guarantees.
 
 ### 📂 PROTOCOLS
-The tactical manuals for operational excellence:
-**OFFICIAL STATEMENT:** Transparency & The Crown Challenge Protocol.
-**KUKINU MEMEPAPER:** Our blueprint for a Decentralized Native Crypto Office.
-**SURVIVAL PROTOCOLS:** The 30-day ignition guide and specialized roles manual.
+Operational documents governing how the system functions today:
+- OFFICIAL STATEMENTS
+- KUKI INU MEMEPAPER
+- DUMPSTER SURVIVAL PROTOCOLS
 
-## 🛡️ MISSION STANDARDS
-**Strategic Participation:** Managed supply to ensure organic distribution and community-led momentum.
-**Zero Tax Policy:** Maximum efficiency for all Pioneers.
-**Human Proof of Work:** A self-sustaining cycle where every role drives the Pulse.
+Documents are versioned and hierarchical.
+Later statements clarify and bound earlier ones.
 
-## 🛡️ ON-CHAIN INFRASTRUCTURE & TRANSPARENCY
-The engine is now fully verifiable. We have locked 9.64% of the total supply to ensure long-term sovereignty and professional execution.
+---
 
-### 🏛️ OPERATIONAL MASTER VAULT (Immutable Fuel)
-This fund is dedicated to the **Meme Machine** rewards and the future **Digital Talent Hub** development.
-- **Contract:** [Operational Master Vault](https://app.streamflow.finance/contract/solana/mainnet/29VSK6p9DiVTFxXaPB26x94heiMmMcadqS9bEwL4RnYB)
-- **Status:** **NON-CANCELLABLE** (Immutable).
+## MISSION STANDARDS (OPERATIONAL)
 
-### 📈 FOUNDER'S EQUITY (Milestone Vesting)
-The Architect’s equity is strictly tied to market performance. If the community doesn't win, the Architect doesn't win.
-- **$100k MC Milestone:** [Verify Lock](https://app.streamflow.finance/contract/solana/mainnet/9bUma2HkDdgmV3GBELy7KmgjCeLmW77Ygq1L9ScQBuqh)
-- **$500k MC Milestone:** [Verify Lock](https://app.streamflow.finance/contract/solana/mainnet/5KppqvBHDp7YhkqfVj5LELeyUJPq4emhoMAvYog1ArsH)
-- **$1M MC Milestone:** [Verify Lock](https://app.streamflow.finance/contract/solana/mainnet/Cob3nguXP46z3kP6B6HtFfEXZvRTihKBAdfgv45tymc)
-- **$2M MC Milestone:** [Verify Lock](https://app.streamflow.finance/contract/solana/mainnet/B9C8kbbbKXgszUQjeQeMSAqed3DMg56hpX9xc1mx8YbV)
+- Zero Tax
+- Zero Paid Marketing
+- Human Proof of Work
 
-**KUKI INU IS HUNGRY. FEED THE PULSE. FIRST MARS, THEN THE STARS. 🚀🐶**
+Execution is manual, public, and observable.
+Coordination replaces automation at this stage.
+
+---
+
+## ON-CHAIN TRANSPARENCY
+
+Certain allocations are sealed by immutable smart contracts.
+
+**OPERATIONAL MASTER VAULT**  
+Reserved for Meme Machine rewards and conditional ecosystem evolution.  
+Status: NON-CANCELLABLE (Immutable)
+
+Founder’s equity is locked behind market-cap–based vesting milestones.
+If the system does not grow, the Architect does not extract value.
+
+All contracts are publicly auditable.
+
+---
+
+## IMPORTANT BOUNDARIES
+
+KUKI INU is not:
+- an investment product,
+- an employer or labor platform,
+- a payment network,
+- a DAO promising returns or salaries.
+
+Participation is voluntary.
+Rewards are conditional.
+Outcomes are not guaranteed.
+
+---
+
+## OFFICIAL REFERENCES
+
+Primary Repository  
+https://github.com/Kukinu-District/The-Meme-Machine
+
+Official Token Contract (Solana)  
+DRA2hziS47TmoBUzJtuBKCmpGud5TNgaNwrTg8x9pump
+
+Always verify contract addresses through official channels.
+
+---
+
+## FINAL NOTE
+
+This repository reflects operational reality as it exists today.
+
+Narrative may evolve.
+Infrastructure remains bounded by code.
+Execution defines legitimacy.
+
+Operate accordingly.
+
+Narrative may evolve.
+Infrastructure remains bounded by code.
+Execution defines legitimacy.
+
+Operate accordingly.
