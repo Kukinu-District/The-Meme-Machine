@@ -107,9 +107,3 @@ Infrastructure remains bounded by code.
 Execution defines legitimacy.
 
 Operate accordingly.
-
-Narrative may evolve.
-Infrastructure remains bounded by code.
-Execution defines legitimacy.
-
-Operate accordingly.
